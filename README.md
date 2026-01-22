@@ -52,6 +52,12 @@ Data bersifat **sekunder**, **publik**, dan merepresentasikan kondisi transaksi 
 │   ├── R6.xlsx
 │   └── R7.xlsx
 │
+├── figures/
+│   ├── high_vs_others.png
+│   ├── quantile_vs_return.png
+│   ├── distribution_bandar_score.png
+│   └── sample_price_movement.png
+│
 ├── src/
 │   ├── data_loading.py
 │   ├── eda.py
@@ -59,12 +65,6 @@ Data bersifat **sekunder**, **publik**, dan merepresentasikan kondisi transaksi 
 │   ├── scoring_bandar.py
 │   ├── validation.py
 │   └── visualization.py
-│
-├── figures/
-│   ├── high_vs_others.png
-│   ├── quantile_vs_return.png
-│   ├── distribution_bandar_score.png
-│   └── sample_price_movement.png
 │
 ├── report/
 │   └── laporan_analisis_bandar.pdf
